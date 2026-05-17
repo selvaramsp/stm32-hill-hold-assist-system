@@ -1,0 +1,13 @@
+## Tech Stack
+- STM32F103C8T6 (Blue Pill)
+- Arduino IDE
+- Embedded C++
+- ADXL345 Accelerometer
+- I²C Communication
+- ADC (Analog-to-Digital Conversion)
+- L298N Motor Driver
+- Servo Motor Control
+- PWM Motor Control
+- Real-Time Embedded Control Logic
+- Sensor Interfacing
+- Automotive Embedded Prototyping
